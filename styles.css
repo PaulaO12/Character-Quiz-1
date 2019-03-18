@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    }
+button{
+    margin:20px;
+    padding:11px;
+    border-radius:30px;
+    }
+img{
+    width:500px;
+    }
+h1{
+    font-family: 'Russo One', sans-serif;
+      font-size:40px;
+    }
+.questions{
+ font-family: 'Russo One', sans-serif;
+  font-size:20px;
+    }
+.answer{
+   font-family: 'Fjord One', serif;
+    font-size:20px;
+    }
+.name{
+    font-family: 'Fjord One', serif;
+     font-size:20px;
+    }
